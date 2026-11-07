@@ -1,0 +1,100 @@
+{
+  "1555200512503185451": {
+    "enabled": true,
+    "modules": {
+      "channelCreate": true,
+      "channelDelete": true,
+      "channelUpdate": true,
+      "roleCreate": true,
+      "roleDelete": true,
+      "roleUpdate": true,
+      "rolePermissions": true,
+      "roleDown": true,
+      "webhook": true,
+      "thread": true,
+      "guildUpdate": true,
+      "everyone": true,
+      "botAdd": true,
+      "ban": true,
+      "kick": true,
+      "timeout": true,
+      "sensitiveRole": true,
+      "voiceMove": true,
+      "voiceDisconnect": true,
+      "voiceMute": true,
+      "voiceDeafen": true,
+      "spam": true,
+      "links": true
+    },
+    "limits": {
+      "channelCreate": 3,
+      "channelDelete": 3,
+      "channelUpdate": 3,
+      "roleCreate": 3,
+      "roleDelete": 3,
+      "roleUpdate": 3,
+      "rolePermissions": 3,
+      "roleDown": 3,
+      "webhook": 3,
+      "thread": 3,
+      "guildUpdate": 3,
+      "everyone": 3,
+      "botAdd": 3,
+      "ban": 3,
+      "kick": 3,
+      "timeout": 3,
+      "sensitiveRole": 3,
+      "voiceMove": 3,
+      "voiceDisconnect": 3,
+      "voiceMute": 3,
+      "voiceDeafen": 3,
+      "spam": 3,
+      "links": 3
+    },
+    "windowSeconds": 10,
+    "sanction": "roles",
+    "whitelist": {},
+    "owners": [
+      "580908079999352847",
+      "1540074352991666216"
+    ],
+    "shield": [
+      "1540074352991666216"
+    ],
+    "accessRules": {},
+    "accessCategories": {
+      "1567263191384326175": {
+        "roleIds": [
+          "1567263144378765405"
+        ]
+      }
+    },
+    "accessCooldowns": {},
+    "logs": {
+      "channelCreate": "1567653619376070697",
+      "channelDelete": "1567654299683786892",
+      "channelUpdate": "1567654302237860053",
+      "roleCreate": "1567654303227838615",
+      "roleDelete": "1567654304335134820",
+      "roleUpdate": "1567654305547427944",
+      "rolePermissions": "1567654306767962193",
+      "roleDown": "1567654308181446687",
+      "webhook": "1567654309125033984",
+      "thread": "1567654310643240980",
+      "guildUpdate": "1567654312346263693",
+      "everyone": "1567654313537441974",
+      "botAdd": "1567654315508768799",
+      "ban": "1567654316716597349",
+      "kick": "1567654318444912684",
+      "timeout": "1567654321015758868",
+      "sensitiveRole": "1567654321913335877",
+      "voiceMove": "1567654323259711550",
+      "voiceDisconnect": "1567654323922665547",
+      "voiceMute": "1567654325956644864",
+      "voiceDeafen": "1567654327303016570",
+      "spam": "1567654328792256551",
+      "links": "1567654329622470841"
+    },
+    "tempBans": {}
+  }
+}
